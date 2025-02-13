@@ -3,6 +3,7 @@ let nombreAmigo;
 let numAmigo;
 let listaAmigos = [];
 let mostrarLista = document.getElementById('showAmigos');
+let resultado = document.getElementById('resultado');
 
 function limpiarListaAmigos(){
     mostrarLista.innerHTML = ""
@@ -14,7 +15,6 @@ function actualizaLista(){
         elemento.textContent = listaAmigos[i]; // Asignar el nombre del amigo
         mostrarLista.appendChild(elemento); // Agregar el <li> a la lista <ul>
     }
-    
 }
 
 function agregarAmigo(){
@@ -34,8 +34,19 @@ function agregarAmigo(){
 }
 
 function sortearAmigo(){
+    //Guardamos cuantos amigos tenemos para poder generar el índice aleatorio
     numAmigo = listaAmigos.length;
     console.log(`tienes ${numAmigo} ${(numAmigo == 1) ? 'amigo' : 'amigos'}`)
+    if(numAmigo !=0){
+        indiceSorteado = Math.floor(Math.random()*numAmigo)+1; //Generamos el índice aleatorio
+        console.log(`El numero aleatorio es: ${indiceSorteado}`);
+        console.log(`El amigo secreto es: ${listaAmigos[indiceSorteado-1]}`);
+        resultado.innerHTML = `El amigo secreto es ${listaAmigos[indiceSorteado-1]}`;
+    }
+    else{
+        alert(`No has añadido amigos aún`);
+    }
+
     
 }
 
