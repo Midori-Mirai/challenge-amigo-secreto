@@ -15,8 +15,10 @@
 - `Funcionalidad 2`: Hay una lista en la pantalla en donde se muestran todos los amigos que has agregado.
 - `Funcionalidad 3`: Encontraras un botón "sortear amigo" con este botón se elegira un amigo aleatorio de la lista 
 - `Funcionalidad 4`: El amigo elegido se muestra de bajo de la lista en color verde
+![Amigo Secreto - Google Chrome 2025-02-18 14-46-27 (1)](https://github.com/user-attachments/assets/9a053207-eb36-4c8c-b660-2e10f04989fc)
 
-[Acceso al proyecto](#acceso-proyecto)
+
+## [:link:Acceso al proyecto](#acceso-proyecto)
 
 ## :girl:[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
 
