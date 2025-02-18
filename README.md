@@ -2,7 +2,7 @@
 
 ![portada](https://github.com/user-attachments/assets/fc0f1c0e-2952-4d65-83c1-d8becb7c5df4)
 
-[Descripción del proyecto](#descripción-del-proyecto)
+[Descripción del proyecto](#hola)
 
 [Estado del proyecto](#Estado-del-proyecto)
 
