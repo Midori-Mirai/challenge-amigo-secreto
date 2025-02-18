@@ -26,4 +26,4 @@ https://midori-mirai.github.io/challenge-amigo-secreto/
 | [<img src="https://avatars.githubusercontent.com/u/196402413?v=4" width=115><br><sub>Zaricell Bautista</sub>](https://github.com/Midori-Mirai) |  
 | :---: | :---: | :---: |
 
-## [:books:Conclusión](#conclusión)
+
