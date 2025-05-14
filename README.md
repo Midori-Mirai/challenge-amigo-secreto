@@ -1,6 +1,5 @@
 <h1 align="center"> juego -> amigo secreto </h1>
-![portada](https://github.com/user-attachments/assets/6a414691-a80e-47f0-825d-568dd9eae0a8)
-
+https://github.com/Midori-Mirai/challenge-amigo-secreto/blob/main/assets/amigo-secreto.png
 
 
 ## [:page_with_curl:Descripción del proyecto](#hola)
