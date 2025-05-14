@@ -1,5 +1,6 @@
 <h1 align="center"> juego -> amigo secreto </h1>
-![conversor de monedas - copia](https://github.com/user-attachments/assets/ef52e2d1-6332-42b0-b387-6f3bab4afa62)
+![portada](https://github.com/user-attachments/assets/b8c24ca2-f2aa-451b-9056-36df57d79c8c)
+
 
 ## [:page_with_curl:Descripción del proyecto](#hola)
 **<p>Este proyecto es un juego, en donde añades amigos hasta formar una lista, después se sortea un amigo de esa lista. Esta aplicación puede ser de utilidad para una rifa.</p>**
