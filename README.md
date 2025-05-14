@@ -1,6 +1,6 @@
 <h1 align="center"> juego -> amigo secreto </h1>
 https://github.com/Midori-Mirai/challenge-amigo-secreto/blob/main/assets/amigo-secreto.png
-
+https://github.com/Midori-Mirai/challenge-amigo-secreto/blob/main/portada.png
 
 ## [:page_with_curl:Descripción del proyecto](#hola)
 **<p>Este proyecto es un juego, en donde añades amigos hasta formar una lista, después se sortea un amigo de esa lista. Esta aplicación puede ser de utilidad para una rifa.</p>**
